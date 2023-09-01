@@ -1,8 +1,8 @@
-package com.yj.xiuxian.panel;
+package com.yj.xiuxian.skill;
 
 import lombok.Data;
 
-import static com.yj.xiuxian.panel.constant.SkillConstants.*;
+import static com.yj.xiuxian.constant.SkillConstants.*;
 
 /**
  * @author YuJin

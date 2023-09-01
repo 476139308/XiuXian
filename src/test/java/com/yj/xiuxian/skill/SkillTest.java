@@ -1,14 +1,11 @@
 package com.yj.xiuxian.skill;
 
-import com.yj.xiuxian.panel.Skill;
-import com.yj.xiuxian.panel.SkillAddition;
-import com.yj.xiuxian.panel.SkillTemplate;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
 import java.util.*;
 
-import static com.yj.xiuxian.panel.constant.SkillConstants.*;
+import static com.yj.xiuxian.constant.SkillConstants.*;
 
 /**
  * @author YuJin

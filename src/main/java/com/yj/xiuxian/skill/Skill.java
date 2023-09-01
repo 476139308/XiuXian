@@ -1,4 +1,4 @@
-package com.yj.xiuxian.panel;
+package com.yj.xiuxian.skill;
 
 import lombok.Data;
 
@@ -7,8 +7,8 @@ import java.math.RoundingMode;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.yj.xiuxian.panel.constant.SkillConstants.ENABLE;
-import static com.yj.xiuxian.panel.constant.SkillConstants.FIRST_ORDER;
+import static com.yj.xiuxian.constant.SkillConstants.ENABLE;
+import static com.yj.xiuxian.constant.SkillConstants.FIRST_ORDER;
 
 /**
  * @author YuJin
