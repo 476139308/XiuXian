@@ -1,4 +1,4 @@
-package com.yj.xiuxian.man;
+package com.yj.xiuxian.panel.fight;
 
 import com.yj.xiuxian.entity.BaseEntity;
 import lombok.Data;

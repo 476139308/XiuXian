@@ -1,4 +1,4 @@
-package com.yj.xiuxian.skill;
+package com.yj.xiuxian.panel.skill;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

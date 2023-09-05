@@ -1,4 +1,4 @@
-package com.yj.xiuxian.fight;
+package com.yj.xiuxian.panel.fight;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

@@ -1,6 +1,6 @@
 package com.yj.xiuxian.panel;
 
-import com.yj.xiuxian.skill.SkillBar;
+import com.yj.xiuxian.panel.skill.SkillBar;
 import lombok.Data;
 
 import java.math.BigDecimal;

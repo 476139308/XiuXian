@@ -1,4 +1,4 @@
-package com.yj.xiuxian.man;
+package com.yj.xiuxian.panel.man;
 
 import lombok.Data;
 

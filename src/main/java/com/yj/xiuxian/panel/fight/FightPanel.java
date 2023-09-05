@@ -1,4 +1,4 @@
-package com.yj.xiuxian.man;
+package com.yj.xiuxian.panel.fight;
 
 import com.yj.xiuxian.entity.BaseEntity;
 import lombok.Data;
@@ -12,7 +12,7 @@ import java.util.List;
  * @since 2023/9/4 18:39
  */
 @Data
-public class FightProperty extends BaseEntity {
+public class FightPanel extends BaseEntity {
     //            ### 一级属性
 //    武器攻击强度：
     private Double weaponAttack;

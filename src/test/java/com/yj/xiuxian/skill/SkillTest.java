@@ -1,5 +1,8 @@
 package com.yj.xiuxian.skill;
 
+import com.yj.xiuxian.panel.skill.Skill;
+import com.yj.xiuxian.panel.skill.SkillAddition;
+import com.yj.xiuxian.panel.skill.SkillTemplate;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

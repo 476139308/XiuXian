@@ -1,4 +1,4 @@
-package com.yj.xiuxian.panel.fulu;
+package com.yj.xiuxian.fulu;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
