@@ -8,7 +8,7 @@ package com.yj.xiuxian.constant;
  */
 public abstract class SkillConstants {
     //    技能槽的状态
-    public static final Integer CLOSED_SKILL_SLOT = 1;
+    public static final Integer CLOSED_SKILL_SLOT = 0;
     public static final Integer OPENED_SKILL_SLOT = 1;
     public static final Integer OCCUPY_SKILL_SLOT = 2;
 

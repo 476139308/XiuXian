@@ -1,10 +1,12 @@
 package com.yj.xiuxian.panel.man;
 
+import com.yj.xiuxian.backpack.Backpack;
 import com.yj.xiuxian.entity.BaseEntity;
 import com.yj.xiuxian.panel.experienct.ExperiencePanel;
 import com.yj.xiuxian.panel.fight.FightPanel;
 import com.yj.xiuxian.panel.production.ProductionPanel;
 import com.yj.xiuxian.panel.skill.SkillPanel;
+import com.yj.xiuxian.panel.zhuangbei.ZhuangBeiPanel;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
@@ -43,5 +45,9 @@ public class CharacterPanel extends BaseEntity {
     private ProductionPanel productionPanel;
 
     private SkillPanel skillPanel;
+
+    private ZhuangBeiPanel zhuangBeiPanel;
+
+    private Backpack backpack;
 
 }
